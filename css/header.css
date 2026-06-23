@@ -6,7 +6,8 @@
     font-family: var(--secondary-font);
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.33;
+  
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--navy-blue);
@@ -27,6 +28,11 @@
 .nav-link:hover,
 .nav-link:focus {
     color: var(--ocean);
+}
+
+
+.contacts {
+    font-style: normal;
 }
 
 .contacts-link {
